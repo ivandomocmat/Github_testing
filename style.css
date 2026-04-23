@@ -1,6 +1,6 @@
 body {
 font-family: Arial;
-background-color: #f4f4f4;
+background-color: #464646;
 margin: 0;
 }
 .container {
@@ -9,10 +9,10 @@ margin: 40px auto;
 text-align: center;
 }
 h1 {
-color: #1f3c88;
+color: #ffffff;
 }
 .box {
-background-color: white;
+background-color: rgb(156, 156, 156);
 padding: 20px;
 margin: 20px 0;
 }
